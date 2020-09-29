@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\first github assignment\\First-Github-Assignment\\final try to assignment\\Employee_Wages\\Employee_Wages\\Employee_Wages.csproj": {}
+    "D:\\Employee_Wages\\Employe_Wages\\Employee_Wages\\Employee_Wages.csproj": {}
   },
   "projects": {
-    "D:\\first github assignment\\First-Github-Assignment\\final try to assignment\\Employee_Wages\\Employee_Wages\\Employee_Wages.csproj": {
+    "D:\\Employee_Wages\\Employe_Wages\\Employee_Wages\\Employee_Wages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\first github assignment\\First-Github-Assignment\\final try to assignment\\Employee_Wages\\Employee_Wages\\Employee_Wages.csproj",
+        "projectUniqueName": "D:\\Employee_Wages\\Employe_Wages\\Employee_Wages\\Employee_Wages.csproj",
         "projectName": "Employee_Wages",
-        "projectPath": "D:\\first github assignment\\First-Github-Assignment\\final try to assignment\\Employee_Wages\\Employee_Wages\\Employee_Wages.csproj",
+        "projectPath": "D:\\Employee_Wages\\Employe_Wages\\Employee_Wages\\Employee_Wages.csproj",
         "packagesPath": "C:\\Users\\win 10\\.nuget\\packages\\",
-        "outputPath": "D:\\first github assignment\\First-Github-Assignment\\final try to assignment\\Employee_Wages\\Employee_Wages\\obj\\",
+        "outputPath": "D:\\Employee_Wages\\Employe_Wages\\Employee_Wages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
