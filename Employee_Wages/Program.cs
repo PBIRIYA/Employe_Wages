@@ -38,9 +38,8 @@ namespace Employee_Wages
         }
             static void Main(string[] args)
             Program computeEmpWage= new Program ("Dmart", 20, 2, 10);
-            computeEmpWage("Reliance", 10, 4, 20);
+        Program computeEmpWage = new Program ("Reliance", 10, 4, 20);
         }
     }
 }
-
 
